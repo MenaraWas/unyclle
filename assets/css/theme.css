@@ -19057,4 +19057,72 @@ a:link {
 .mg-text {
   line-height: 14px
 }
+
+.breadcrumb{
+  padding: 0;
+}
+.image-news{
+  height: 5%;
+}
+.main-content{
+  border-bottom: 1px solid #E6E6E6;
+  
+}
+.side-news{
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.side-news-header{
+  border-bottom: 1px solid #E6E6E6;
+  margin-bottom: 30px;
+}
+.image-banner{
+  width: 750px;
+}
+.title-side-news{
+  font-weight: bold;
+  color: #073C64;
+  margin-top: 0;
+  margin-bottom: -1px !important;
+  border-bottom: 3px solid #FDCB2C;
+  padding-bottom: 11px;
+  display: inline-block;
+}
+.title-side-news a{
+  color: #073C64;
+}
+.side-news ul > li{
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #E6E6E6;
+}
+.side-news ul li a{
+  font-weight: normal;
+  color: #222222;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  line-height: 1.4;
+  margin-bottom: 0;
+}
+.side-news ul{
+  padding: 0 !important;
+  margin-bottom: 0;
+  list-style: none;
+}
+.rssSummary{
+  display: none;
+}
+.rss-date{
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #a6a6a6;
+  display: inline-block;
+  margin-right: 6px;
+}
+.side-news a::hover{
+  color: #149fc0;
+}
+/*Berita detail End*/
 /*# sourceMappingURL=theme.css.map */
